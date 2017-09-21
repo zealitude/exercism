@@ -1,0 +1,12 @@
+{
+    "name": "alexcheung/php",
+    "require-dev": {
+    },
+    "authors": [
+        {
+            "name": "Alexander Cheung",
+            "email": "alexcheung@amberroad.com"
+        }
+    ],
+    "require": {}
+}
